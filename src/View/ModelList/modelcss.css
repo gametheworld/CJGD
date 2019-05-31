@@ -1,0 +1,24 @@
+.newlistName{padding: 0px 10px 0px 0px;}
+.carouselList{
+    height: 200px !important;
+}
+.slider-list{height: 200px !important;}
+.carouselistImg{
+height:200px;
+width:100%;
+}
+.newitem{ height: 120px;}
+.itemcla{
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 86%;
+}
+.ant-list-item-meta-content{margin: 5px;}
+.ant-list-item-meta-description{
+    margin: 5px;
+    font-size: 10px;
+    width:89%;
+
+}
